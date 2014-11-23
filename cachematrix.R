@@ -34,4 +34,4 @@ cacheSolve <- function(x, ...) {
   C 
 }
         ## Return a matrix that is the inverse of 'x'
-
+##Final Answer
